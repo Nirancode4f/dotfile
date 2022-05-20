@@ -1,2 +1,2 @@
-# khen-dotfile
+#dotfile
 !this is khen dotfile 
