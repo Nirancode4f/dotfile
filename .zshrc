@@ -17,6 +17,7 @@ alias drofi='rofi -show drun'
 #rofi applets config
 alias menu='~/.config/rofi/applets/applets/powermenu.sh'
 alias app='~/.config/rofi/applets/applets/apps.sh'
+alias screenshot='~/.config/rofi/applets/applets/screenshot.sh'
 alias music='~/.config/rofi/applets/applets/mpd.sh'
 
 

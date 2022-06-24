@@ -1,4 +1,4 @@
-#===============this is rofi config 
+#==============this is rofi config
 #powermenu
 chmod +x ~/.config/rofi/applets/applets/powermenu.sh
 
