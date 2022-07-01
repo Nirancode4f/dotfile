@@ -22,8 +22,12 @@ Plug 'wfxr/minimap.vim'
 Plug 'wfxr/minimap.vim'
 Plug 'wfxr/code-minimap'
 
-"python autocomplete 
+" ============== Autocomplete ============= 
+"python
 Plug 'davidhalter/jedi-vim'
+"rust
+Plug 'rust-lang/rust.vim'
+" ============== Endautocomple
 "This is nvimtree config vimplug
 Plug 'kyazdani42/nvim-web-devicons' " optional, for file icons
 Plug 'kyazdani42/nvim-tree.lua'

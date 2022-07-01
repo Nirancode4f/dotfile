@@ -19,8 +19,7 @@ alias menu='~/.config/rofi/applets/applets/powermenu.sh'
 alias app='~/.config/rofi/applets/applets/apps.sh'
 alias screenshot='~/.config/rofi/applets/applets/screenshot.sh'
 alias music='~/.config/rofi/applets/applets/mpd.sh'
-alias music='~/.config/rofi/applets/applets/quicklinks.sh'
-alias music='~/.config/rofi/applets/applets/battery.sh'
+
 
 
 alias logout="[[ -o login ]] && logout || qdbus org.kde.ksmserver /KSMServer logout 0 0 1"
