@@ -26,7 +26,6 @@ alias logout="[[ -o login ]] && logout || qdbus org.kde.ksmserver /KSMServer log
 
 [ -f ~/.fzf.zsh ] && source ~/.fzf.zsh
 
-source ~/powerlevel10k/powerlevel10k.zsh-theme
 export LC_ALL="en_US.UTF-8"
 # To customize prompt, run `p10k configure` or edit ~/.p10k.zsh.
 [[ ! -f ~/.p10k.zsh ]] || source ~/.p10k.zsh
